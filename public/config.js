@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Trading,Leaderboard,Portfolio,Rewards,Markets",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
-  "VITE_TELEGRAM_URL": "",
+  "VITE_TELEGRAM_URL": "https://t.me/miaomi999999999",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "XYZ",
